@@ -1,15 +1,19 @@
 body{
   margin:0;
   padding:0;
-  background-color: #999;/*bu renk kodu */
+  background-color: red;/*bu renk kodu */
 }
 /*
 
  */
  .timur{
-   color: red;
+   color: white;
    font-size: 50px;
  }
 #timurDemir{
   text-align: center; /*bu ortalar */
+}
+.paragraf{
+  text-align: center;
+  color: green;
 }

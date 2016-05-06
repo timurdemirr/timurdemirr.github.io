@@ -1,0 +1,14 @@
+body{
+  margin:0;
+  padding:0;
+}
+/*Bu not için koda dahil olmaz
+
+ */
+ .timur{
+   color: red;
+   font-size: 50px;
+ }
+#timurDemir{
+  text-align: center; /*bu ortalar */
+}
